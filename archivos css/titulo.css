@@ -52,3 +52,9 @@
   font-weight: bold;
   margin: 0;
 }
+.titulo-principal {
+  background-color: #2e2c2f; /* Color de fondo */
+  color: white;              /* Para asegurar que el texto sea legible */
+  padding: 20px;             /* Espaciado alrededor del texto */
+  text-align: center;        /* Alineación del texto */
+}
