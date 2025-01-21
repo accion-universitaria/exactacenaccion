@@ -4,3 +4,7 @@
   padding: 20px;             /* Espaciado alrededor del texto */
   text-align: center;        /* Alineación del texto */
 }
+h1 h2
+{
+  background-color: white;
+}
