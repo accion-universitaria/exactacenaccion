@@ -16,7 +16,7 @@
   }
   
   .titulo-logo-exa {
-    width: 250px; /* Ajusta el tamaño del logo */
+    width: 300px; /* Ajusta el tamaño del logo */
     height: auto; /* Mantiene la proporción */
   }
   /* Estilo para el contenedor de AU */
@@ -30,7 +30,7 @@
 
 /* Estilo para el logo de AU */
 .titulo-logo-au {
-  width: 200px; /* Ajusta el tamaño del logo */
+  width: 300px; /* Ajusta el tamaño del logo */
   height: auto; /* Mantiene la proporción */
 }
 
