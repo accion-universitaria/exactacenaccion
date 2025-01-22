@@ -12,7 +12,7 @@
 /* Estilo para el contenedor de ExEA */
 .exa {
   display: flex;
-  justify-content: flex-start; /* Alinea el logo de ExEA a la izquierda */
+  justify-content: center; /* Alinea el logo de ExEA a la izquierda */
   align-items: center;
   width: 120px; /* Ajusta el tamaño del contenedor de ExEA */
   background-color:#2e2c2f ;
