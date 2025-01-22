@@ -4,11 +4,9 @@
   padding: 20px;             /* Espaciado alrededor del texto */
   text-align: center;        /* Alineación del texto */
 }
-h1 
-{
-  background-color: white;
-}
- h2
-{
-  background-color: white;
+.titulo-principal h1,
+.titulo-principal h2 {
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;  /* Ajusta el tamaño de la fuente */
 }
