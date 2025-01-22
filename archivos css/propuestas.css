@@ -54,7 +54,7 @@ header ul li a {
     text-decoration: none;
     padding: 10px;
     background-color: #f0f0f0;
-    color: black;
+    color: rgb(0, 0, 0);
     border-radius: 5px;
 }
 img
@@ -79,6 +79,6 @@ h2{
     flex-grow: 1; /* El título ocupa el espacio disponible */
     text-align: center; /* Asegura que el título esté centrado */
     font-size: 2.5em; /* Ajusta el tamaño del título */
-    color: #000000; /* Color blanco */
+    color: #ffffff; /* Color blanco */
     margin: 0; /* Elimina el margen por defecto */
   }
