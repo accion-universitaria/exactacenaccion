@@ -66,5 +66,7 @@
     justify-content: center;  /* Centra los elementos horizontalmente */
     gap: 30px;  /* Espacio entre los elementos */
 }
-
-  
+img
+{
+    align-items: center;
+}

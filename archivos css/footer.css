@@ -29,4 +29,7 @@ footer {
     font-size: 1.2em;
     font-weight: bold;
   }
-  
+  img
+{
+    align-items: center;
+}
